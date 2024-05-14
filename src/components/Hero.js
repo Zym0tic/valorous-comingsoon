@@ -31,17 +31,10 @@ const Hero = () => {
           </motion.div>
           <motion.p
             variants={fadeIn("up")}
-            className="hero-p mb-8 lg:mb-16 max-w-lg leading-relaxed"
+            className="mb-8 lg:mb-16 max-w-lg text-lg leading-relaxed"
           >
-            {subtitle}
+            COMING SOON!
           </motion.p>
-          <motion.div variants={fadeIn("down")}>
-            <Link to="/main" className="active">
-              <button className="btn btn-sm rounded-lg bg-black bg-opacity-50 lg:btn-lg btn-outline mx-auto lg:mx-0">
-                {btnText}
-              </button>
-            </Link>
-          </motion.div>
           {/* Social media icons */}
           <motion.div variants={fadeIn("up")} className="flex justify-center lg:justify-start mt-8">
             <a href="https://www.instagram.com/valorous_guitars/" target="_blank" rel="noopener noreferrer" className="text-white mx-2">
