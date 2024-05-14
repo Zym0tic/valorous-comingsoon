@@ -33,7 +33,7 @@ const Hero = () => {
             variants={fadeIn("up")}
             className="mb-8 lg:mb-16 max-w-lg text-lg leading-relaxed"
           >
-            COMING SOON!
+            WEBSITE COMING SOON!
           </motion.p>
           {/* Social media icons */}
           <motion.div variants={fadeIn("up")} className="flex justify-center lg:justify-start mt-8">
