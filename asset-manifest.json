@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/valorous-comingsoon/static/css/main.0c6e80e6.css",
-    "main.js": "/valorous-comingsoon/static/js/main.a10c9343.js",
+    "main.css": "/valorous-comingsoon/static/css/main.40d4ceaf.css",
+    "main.js": "/valorous-comingsoon/static/js/main.34b1a637.js",
     "static/media/bg.png": "/valorous-comingsoon/static/media/bg.6710aa56d9e68d4deee5.png",
     "static/media/2FADAB6C-9C19-4C5A-BFCF-281752F664DA.png": "/valorous-comingsoon/static/media/2FADAB6C-9C19-4C5A-BFCF-281752F664DA.595fab8657573ef18ae5.png",
     "static/media/valimg.jpg": "/valorous-comingsoon/static/media/valimg.cb6b42ce3894811d3810.jpg",
     "static/media/ValorousLogo.svg": "/valorous-comingsoon/static/media/ValorousLogo.810f29ccf5ce9852bd1148ec1d29c8b8.svg",
     "index.html": "/valorous-comingsoon/index.html",
-    "main.0c6e80e6.css.map": "/valorous-comingsoon/static/css/main.0c6e80e6.css.map",
-    "main.a10c9343.js.map": "/valorous-comingsoon/static/js/main.a10c9343.js.map"
+    "main.40d4ceaf.css.map": "/valorous-comingsoon/static/css/main.40d4ceaf.css.map",
+    "main.34b1a637.js.map": "/valorous-comingsoon/static/js/main.34b1a637.js.map"
   },
   "entrypoints": [
-    "static/css/main.0c6e80e6.css",
-    "static/js/main.a10c9343.js"
+    "static/css/main.40d4ceaf.css",
+    "static/js/main.34b1a637.js"
   ]
 }
